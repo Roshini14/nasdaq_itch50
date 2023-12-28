@@ -1,0 +1,1 @@
+This project calculates the hourly vwap for NASDAQ_ITCH50 data 
